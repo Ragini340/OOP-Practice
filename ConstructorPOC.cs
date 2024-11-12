@@ -35,7 +35,7 @@ namespace OOP_Practice
 
         public static void Main()
         {
-            ConstructorPOC constructorPOC = new ConstructorPOC();
+            ConstructorPOC constructorPOC = new ConstructorPOC(1, "Test", 1);
             Console.WriteLine(constructorPOC.num);
             Console.WriteLine(constructorPOC.name);
             Console.WriteLine(constructorPOC.age);
