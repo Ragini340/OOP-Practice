@@ -57,12 +57,12 @@ namespace OOP_Practice
         }
 
         // Main Method
-       /* public static void Main(String[] args)
+        public static void Main(String[] args)
         {
             // Creating object
             ClassAndObject tuffy = new ClassAndObject("Rag", "Abc", 5, "white");
             Console.WriteLine(tuffy.ToString());
-        }*/
+        }
     }
 
 }
